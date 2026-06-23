@@ -236,3 +236,10 @@ Secondary Objectives:
 * Collect all available coins.
 * Avoid enemy collisions.
 * Achieve the highest possible score.
+
+
+<img width="781" height="480" alt="image" src="https://github.com/user-attachments/assets/b778a5fe-f0ee-439c-a348-68ebc2e3035e" />
+
+
+
+
