@@ -268,5 +268,11 @@ Next level loads.
 | background.png | Level background |
 
 
+| Risk                     | Impact | Solution           |
+| ------------------------ | ------ | ------------------ |
+| PNG not loading          | High   | Check asset paths  |
+| Collision bugs           | Medium | Additional testing |
+| Level progression errors | High   | Test every level   |
+| GitHub issues            | Medium | Commit regularly   |
 
 
