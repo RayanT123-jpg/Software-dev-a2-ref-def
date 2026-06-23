@@ -275,4 +275,13 @@ Next level loads.
 | Level progression errors | High   | Test every level   |
 | GitHub issues            | Medium | Commit regularly   |
 
+| ID  | Success Criteria               |
+| --- | ------------------------------ |
+| SC1 | Player can move left and right |
+| SC2 | Player can jump                |
+| SC3 | Coins can be collected         |
+| SC4 | Enemies cause game over        |
+| SC5 | Levels progress correctly      |
+| SC6 | Player can win game            |
+| SC7 | Score updates correctly        |
 
