@@ -144,3 +144,62 @@ Game Rules:
 4. Touching an enemy results in death and game over
 5. Collecting coins increases the score.
 6. Reaching the goal completes the level.
+
+Backlog reviews 
+
+Review 1
+
+Completed
+
+Created project structure
+Installed Pygame
+
+Next
+
+Create player movement
+
+Problems
+
+Learning Pygame controls
+Review 2
+
+Completed
+
+Movement
+Jumping
+
+Next
+
+Enemy system
+
+Problems
+
+Collision detection
+Review 3
+
+Completed
+
+Enemy movement
+Coin collection
+
+Next
+
+Testing
+
+Problems
+
+Asset loading errors
+Review 4
+
+Completed
+
+Testing
+README
+
+Next
+
+Demo
+
+Problems
+
+None
