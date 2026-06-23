@@ -162,7 +162,7 @@ Problems
 
 Learning Pygame controls
 
-#Review 2
+# Review 2
 
 Completed
 
@@ -177,7 +177,7 @@ Problems
 
 Collision detection
 
-#Review 3
+# Review 3
 
 Completed
 
@@ -192,7 +192,7 @@ Problems
 
 Asset loading errors
 
-#Review 4
+# Review 4
 
 Completed
 
