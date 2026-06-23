@@ -147,7 +147,7 @@ Game Rules:
 
 # Backlog reviews 
 
- Review 1
+# Review 1
 
 Completed
 
@@ -161,7 +161,8 @@ Create player movement
 Problems
 
 Learning Pygame controls
-Review 2
+
+#Review 2
 
 Completed
 
@@ -175,7 +176,8 @@ Enemy system
 Problems
 
 Collision detection
-Review 3
+
+#Review 3
 
 Completed
 
@@ -189,7 +191,8 @@ Testing
 Problems
 
 Asset loading errors
-Review 4
+
+#Review 4
 
 Completed
 
