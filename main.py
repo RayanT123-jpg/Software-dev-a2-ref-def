@@ -69,7 +69,6 @@ while running:
         if player.rect.colliderect(enemy.rect):
 
             print("GAME OVER")
-
             running = False
 
     level.check_coins(player)
@@ -80,17 +79,12 @@ while running:
 
         if current_level > 3:
 
-            print(
-                "YOU BEAT THE GAME!"
-            )
-
+            print("YOU BEAT THE GAME!")
             running = False
 
         else:
 
-            level = Level(
-                current_level
-            )
+            level = Level(current_level)
 
             enemies = []
 
