@@ -285,3 +285,11 @@ Next level loads.
 | SC6 | Player can win game            |
 | SC7 | Score updates correctly        |
 
+<img width="798" height="429" alt="image" src="https://github.com/user-attachments/assets/fcf59d67-d144-4280-a217-985e0db02fb0" />
+
+<img width="798" height="423" alt="image" src="https://github.com/user-attachments/assets/9fc671e8-0ff6-42de-a0d8-b10255324ab1" />
+
+<img width="796" height="427" alt="image" src="https://github.com/user-attachments/assets/f18761d5-b5ed-47b7-9bf4-4a1c1bd01e51" />
+
+<img width="796" height="429" alt="image" src="https://github.com/user-attachments/assets/e6128501-9511-4061-92e5-456a1d361cd3" />
+
