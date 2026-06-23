@@ -206,3 +206,14 @@ Demo
 Problems
 
 None
+
+# Test Table
+
+| Test            | Expected           | Result |
+| --------------- | ------------------ | ------ |
+| Move Left       | Player moves left  | Pass   |
+| Move Right      | Player moves right | Pass   |
+| Jump            | Player jumps       | Pass   |
+| Coin Collection | Score increases    | Pass   |
+| Enemy Collision | Game Over          | Pass   |
+| Goal Collision  | Victory            | Pass   |
