@@ -259,3 +259,14 @@ Player reaches goal.
 
 Screen 6
 Next level loads.
+
+| Asset          | Purpose          |
+| -------------- | ---------------- |
+| player.png     | Player sprite    |
+| enemy.png      | Enemy sprite     |
+| coin.png       | Collectible item |
+| background.png | Level background |
+
+
+
+
