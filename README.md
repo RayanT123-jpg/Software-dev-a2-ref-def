@@ -147,7 +147,7 @@ Game Rules:
 
 Backlog reviews 
 
-Review 1
+# Review 1
 
 Completed
 
