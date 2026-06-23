@@ -224,3 +224,15 @@ None
 The player starts at the beginning of the level and explores the environment. During exploration, the player encounters coins and enemies. The player is motivated to collect coins to increase their score while avoiding enemies to survive. Successfully collecting coins and progressing through the level provides a sense of achievement. Completing a level unlocks the next level, encouraging the player to continue playing until all levels are completed.
 
 Explore → Collect Coins → Increase Score → Avoid Enemies → Complete Level → Unlock Next Level → Repeat
+
+## Game Objectives
+
+Primary Objective:
+
+* Complete all three levels.
+
+Secondary Objectives:
+
+* Collect all available coins.
+* Avoid enemy collisions.
+* Achieve the highest possible score.
