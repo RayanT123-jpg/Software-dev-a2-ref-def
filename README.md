@@ -240,13 +240,22 @@ Secondary Objectives:
 
 <img width="781" height="480" alt="image" src="https://github.com/user-attachments/assets/b778a5fe-f0ee-439c-a348-68ebc2e3035e" />
 
-          +------------+
-          |   Player   |
-          +------------+
-                |
-   ---------------------------
-   |      |      |      |     |
- Move   Jump  Collect  Avoid Goal
-               Coin   Enemy
+7. Storyboard
 
+Screen 1
+Player starts level.
 
+Screen 2
+Player moves toward coin.
+
+Screen 3
+Player collects coin.
+
+Screen 4
+Player avoids enemy.
+
+Screen 5
+Player reaches goal.
+
+Screen 6
+Next level loads.
