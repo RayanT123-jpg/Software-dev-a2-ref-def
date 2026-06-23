@@ -145,9 +145,9 @@ Game Rules:
 5. Collecting coins increases the score.
 6. Reaching the goal completes the level.
 
-Backlog reviews 
+# Backlog reviews 
 
-# Review 1
+ Review 1
 
 Completed
 
